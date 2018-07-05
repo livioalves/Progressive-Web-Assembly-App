@@ -15,5 +15,4 @@ First we will develop the PWA, then the Unity WebGl app, and more complicated th
 Standard procedure, submit a pull request and be sure to provide a useful comment so that we can see easily its value.
 
 # Currently
-+ Learning how to use AWS's mega suite properly. 
 + You can view the app's current state at http://shinepickaw.rip
